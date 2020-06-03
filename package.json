@@ -1,0 +1,37 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "template repository for me",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint *"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dingziqi/template.git"
+  },
+  "keywords": [
+    "template",
+    "repository"
+  ],
+  "author": "dingziqi <dingziqi_xtu@sina.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dingziqi/template/issues"
+  },
+  "homepage": "https://github.com/dingziqi/template#readme",
+  "engines": {
+    "node": "12.16.0"
+  },
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.1.0",
+    "eslint-config-airbnb": "^18.1.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.20.0",
+    "eslint-plugin-react-hooks": "^2.5.0"
+  }
+}
