@@ -1,4 +1,12 @@
 {
   "singleQuote": true,
-  "jsxSingleQuote": false
+  "trailingComma": "all",
+  "proseWrap": "never",
+  "arrowParens": "avoid",
+  "overrides": [
+    {
+      "files": ".prettierrc",
+      "options": { "parser": "json" }
+    }
+  ]
 }
