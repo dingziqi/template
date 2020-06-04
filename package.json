@@ -4,7 +4,7 @@
   "description": "template repository for me",
   "main": "index.js",
   "scripts": {
-    "test": "eslint *"
+    "lint": "eslint '**/*.js?(x)'"
   },
   "repository": {
     "type": "git",
